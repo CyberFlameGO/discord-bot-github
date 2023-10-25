@@ -10,7 +10,7 @@
     "@discordjs/rest": "^0.1.0-canary.0",
     "@hapi/cryptiles": "^5.1.0",
     "@hapi/hapi": "^20.1.5",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "discord.js": "^13.1.0",
     "mongodb": "^4.1.1"
   },
